@@ -3,5 +3,5 @@
   </div>
 
 <div align="center">
-  ![moonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjulee4327&theme=dark&show_icons=true)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjulee4327)](https://github.com/moonjulee4327/github-readme-stats)
 </div>
